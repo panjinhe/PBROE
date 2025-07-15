@@ -1,0 +1,13 @@
+# 📦 忽略大型或中间数据文件
+*.npy
+*.hdf5
+*.xlsx
+*.csv
+
+# 📒 忽略 Jupyter 检查点和缓存
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+
+# 🧠 忽略 IDE 工作文件（如 DataSpell / PyCharm）
+.idea/
